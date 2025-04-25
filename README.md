@@ -7,7 +7,7 @@ Hospital readmissions are a major concern due to their economic and clinical bur
 Hospital readmissions drive up healthcare costs and are often preventable. Traditional models underperform with unstructured data like clinical notes. This system aims to harness **LLMs and NLP** to analyze unstructured EHR data and predict patient readmission risk.
 
 ## 🧠 Solution Architecture
-![Architecture Flow](architecture_diagram_placeholder.png)
+![Architecture Flow](Architecture.png)
 
 **Key Components:**
 - **Data Preprocessing:** MIMIC-III Admissions and NoteEvents tables merged and cleaned  
